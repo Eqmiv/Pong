@@ -81,4 +81,8 @@ public class Paddle {
 	 }
 		 return false;
 	 }
+
+	 public int getHeight(){
+		return height;
+	 }
 }
